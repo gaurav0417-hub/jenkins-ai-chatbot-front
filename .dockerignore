@@ -1,0 +1,9 @@
+# Ignore node_modules and other unnecessary files
+node_modules
+.git
+.gitignore
+dist
+Dockerfile
+.dockerignore
+.vscode
+*.log
